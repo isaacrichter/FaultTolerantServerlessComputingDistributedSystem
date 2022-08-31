@@ -1,0 +1,51 @@
+Jan 14, 2022 2:44:40 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189480984 for server 1 
+
+Jan 14, 2022 2:44:40 PM edu.yu.cs.com3800.ZooKeeperLeaderElection <init>
+FINE: initialized...
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+FINE: got message from server with leader
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: got a better vote-- changing vote to server: 3
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: 3 seems to have enough votes...
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: checking Q... 
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 4 votes for 7
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 5 votes for 7
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 6 votes for 7
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 3 votes for 3
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 4 votes for 7
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 5 votes for 7
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 6 votes for 7
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 5 votes for 5
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: 3 not accepted as winner - had incoming vote for 5 by server 5
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: got a better vote-- changing vote to server: 5
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: 5 seems to have enough votes...
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: checking Q... 
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 3 votes for 3
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 4 votes for 7
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 6 votes for 7
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 0 votes for 5
+Jan 14, 2022 2:44:43 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 4 votes for 4
+Jan 14, 2022 2:44:43 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 4 votes for 5
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+INFO: 5 accepted as leader on server 1

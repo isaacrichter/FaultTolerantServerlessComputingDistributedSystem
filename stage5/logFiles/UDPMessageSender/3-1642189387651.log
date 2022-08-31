@@ -1,0 +1,1313 @@
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189387654 for server 3 
+
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1010
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1010
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 0
+Jan 14, 2022 2:43:08 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 3
+	  Heartbeat: 1
+Jan 14, 2022 2:43:10 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 1
+	  Heartbeat: 1	Server: 3
+	  Heartbeat: 2
+Jan 14, 2022 2:43:12 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 1
+	  Heartbeat: 2	Server: 2
+	  Heartbeat: 1	Server: 3
+	  Heartbeat: 3	Server: 4
+	  Heartbeat: 1	Server: 5
+	  Heartbeat: 2
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 1	Server: 1
+	  Heartbeat: 2	Server: 2
+	  Heartbeat: 2	Server: 3
+	  Heartbeat: 4	Server: 4
+	  Heartbeat: 1	Server: 5
+	  Heartbeat: 2	Server: 6
+	  Heartbeat: 3	Server: 7
+	  Heartbeat: 1
+Jan 14, 2022 2:43:16 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 3	Server: 1
+	  Heartbeat: 2	Server: 2
+	  Heartbeat: 2	Server: 3
+	  Heartbeat: 5	Server: 4
+	  Heartbeat: 3	Server: 5
+	  Heartbeat: 2	Server: 6
+	  Heartbeat: 4	Server: 7
+	  Heartbeat: 3
+Jan 14, 2022 2:43:19 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 3	Server: 1
+	  Heartbeat: 3	Server: 2
+	  Heartbeat: 3	Server: 3
+	  Heartbeat: 6	Server: 4
+	  Heartbeat: 3	Server: 5
+	  Heartbeat: 5	Server: 6
+	  Heartbeat: 4	Server: 7
+	  Heartbeat: 3
+Jan 14, 2022 2:43:20 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 3	Server: 1
+	  Heartbeat: 3	Server: 2
+	  Heartbeat: 3	Server: 3
+	  Heartbeat: 7	Server: 4
+	  Heartbeat: 3	Server: 5
+	  Heartbeat: 5	Server: 6
+	  Heartbeat: 4	Server: 7
+	  Heartbeat: 3
+Jan 14, 2022 2:43:22 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 3	Server: 1
+	  Heartbeat: 3	Server: 2
+	  Heartbeat: 3	Server: 3
+	  Heartbeat: 8	Server: 4
+	  Heartbeat: 3	Server: 5
+	  Heartbeat: 7	Server: 6
+	  Heartbeat: 4	Server: 7
+	  Heartbeat: 6
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 3	Server: 1
+	  Heartbeat: 3	Server: 2
+	  Heartbeat: 3	Server: 3
+	  Heartbeat: 9	Server: 4
+	  Heartbeat: 3	Server: 5
+	  Heartbeat: 7	Server: 6
+	  Heartbeat: 4	Server: 7
+	  Heartbeat: 6
+Jan 14, 2022 2:43:27 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 3	Server: 1
+	  Heartbeat: 3	Server: 2
+	  Heartbeat: 3	Server: 3
+	  Heartbeat: 10	Server: 4
+	  Heartbeat: 3	Server: 5
+	  Heartbeat: 7	Server: 6
+	  Heartbeat: 4	Server: 7
+	  Heartbeat: 6
+Jan 14, 2022 2:43:29 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 9	Server: 1
+	  Heartbeat: 7	Server: 2
+	  Heartbeat: 9	Server: 3
+	  Heartbeat: 11	Server: 4
+	  Heartbeat: 7	Server: 5
+	  Heartbeat: 9	Server: 6
+	  Heartbeat: 10	Server: 7
+	  Heartbeat: 7
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 9	Server: 1
+	  Heartbeat: 7	Server: 2
+	  Heartbeat: 9	Server: 3
+	  Heartbeat: 12	Server: 4
+	  Heartbeat: 7	Server: 5
+	  Heartbeat: 9	Server: 6
+	  Heartbeat: 10	Server: 7
+	  Heartbeat: 7
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 10	Server: 1
+	  Heartbeat: 10	Server: 2
+	  Heartbeat: 12	Server: 3
+	  Heartbeat: 13	Server: 4
+	  Heartbeat: 9	Server: 5
+	  Heartbeat: 9	Server: 6
+	  Heartbeat: 10	Server: 7
+	  Heartbeat: 11
+Jan 14, 2022 2:43:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 13	Server: 1
+	  Heartbeat: 11	Server: 2
+	  Heartbeat: 12	Server: 3
+	  Heartbeat: 14	Server: 4
+	  Heartbeat: 11	Server: 5
+	  Heartbeat: 11	Server: 6
+	  Heartbeat: 13	Server: 7
+	  Heartbeat: 13
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 13	Server: 1
+	  Heartbeat: 11	Server: 2
+	  Heartbeat: 12	Server: 3
+	  Heartbeat: 15	Server: 4
+	  Heartbeat: 11	Server: 5
+	  Heartbeat: 11	Server: 6
+	  Heartbeat: 13	Server: 7
+	  Heartbeat: 13
+Jan 14, 2022 2:43:39 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 15	Server: 1
+	  Heartbeat: 13	Server: 2
+	  Heartbeat: 13	Server: 3
+	  Heartbeat: 16	Server: 4
+	  Heartbeat: 12	Server: 5
+	  Heartbeat: 13	Server: 6
+	  Heartbeat: 14	Server: 7
+	  Heartbeat: 13
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 15	Server: 1
+	  Heartbeat: 16	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 17	Server: 4
+	  Heartbeat: 15	Server: 5
+	  Heartbeat: 14	Server: 6
+	  Heartbeat: 16	Server: 7
+	  Heartbeat: 16
+Jan 14, 2022 2:43:43 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1010
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 15	Server: 1
+	  Heartbeat: 16	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 18	Server: 4
+	  Heartbeat: 16	Server: 5
+	  Heartbeat: 16	Server: 6
+	  Heartbeat: 18	Server: 7
+	  Heartbeat: 16
+Jan 14, 2022 2:43:45 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 16	Server: 1
+	  Heartbeat: 18	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 19	Server: 4
+	  Heartbeat: 16	Server: 5
+	  Heartbeat: 16	Server: 6
+	  Heartbeat: 18	Server: 7
+	  Heartbeat: 16
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 16	Server: 1
+	  Heartbeat: 18	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 20	Server: 4
+	  Heartbeat: 16	Server: 5
+	  Heartbeat: 16	Server: 6
+	  Heartbeat: 18	Server: 7
+	  Heartbeat: 16
+Jan 14, 2022 2:43:49 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 19	Server: 1
+	  Heartbeat: 19	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 21	Server: 4
+	  Heartbeat: 20	Server: 5
+	  Heartbeat: 19	Server: 6
+	  Heartbeat: 19	Server: 7
+	  Heartbeat: 20
+Jan 14, 2022 2:43:52 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 19	Server: 1
+	  Heartbeat: 19	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 22	Server: 4
+	  Heartbeat: 20	Server: 5
+	  Heartbeat: 19	Server: 6
+	  Heartbeat: 19	Server: 7
+	  Heartbeat: 20
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1010
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 19	Server: 1
+	  Heartbeat: 19	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 23	Server: 4
+	  Heartbeat: 20	Server: 5
+	  Heartbeat: 19	Server: 6
+	  Heartbeat: 19	Server: 7
+	  Heartbeat: 20
+Jan 14, 2022 2:43:56 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 23	Server: 1
+	  Heartbeat: 22	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 24	Server: 4
+	  Heartbeat: 22	Server: 5
+	  Heartbeat: 23	Server: 6
+	  Heartbeat: 23	Server: 7
+	  Heartbeat: 22
+Jan 14, 2022 2:43:58 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 23	Server: 1
+	  Heartbeat: 22	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 25	Server: 4
+	  Heartbeat: 22	Server: 5
+	  Heartbeat: 23	Server: 6
+	  Heartbeat: 23	Server: 7
+	  Heartbeat: 22
+Jan 14, 2022 2:44:00 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 23	Server: 1
+	  Heartbeat: 22	Server: 3
+	  Heartbeat: 26	Server: 4
+	  Heartbeat: 22	Server: 5
+	  Heartbeat: 23	Server: 6
+	  Heartbeat: 23	Server: 7
+	  Heartbeat: 22
+Jan 14, 2022 2:44:02 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 24	Server: 1
+	  Heartbeat: 24	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 27	Server: 4
+	  Heartbeat: 26	Server: 5
+	  Heartbeat: 26	Server: 6
+	  Heartbeat: 26	Server: 7
+	  Heartbeat: 25
+Jan 14, 2022 2:44:04 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 24	Server: 1
+	  Heartbeat: 24	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 28	Server: 4
+	  Heartbeat: 26	Server: 5
+	  Heartbeat: 26	Server: 6
+	  Heartbeat: 26	Server: 7
+	  Heartbeat: 25
+Jan 14, 2022 2:44:06 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 24	Server: 1
+	  Heartbeat: 24	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 29	Server: 4
+	  Heartbeat: 26	Server: 5
+	  Heartbeat: 26	Server: 6
+	  Heartbeat: 26	Server: 7
+	  Heartbeat: 25
+Jan 14, 2022 2:44:08 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 28	Server: 1
+	  Heartbeat: 30	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 30	Server: 4
+	  Heartbeat: 28	Server: 5
+	  Heartbeat: 29	Server: 6
+	  Heartbeat: 30	Server: 7
+	  Heartbeat: 29
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 28	Server: 1
+	  Heartbeat: 30	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 31	Server: 4
+	  Heartbeat: 28	Server: 5
+	  Heartbeat: 29	Server: 6
+	  Heartbeat: 30	Server: 7
+	  Heartbeat: 29
+Jan 14, 2022 2:44:12 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 30	Server: 1
+	  Heartbeat: 32	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 32	Server: 4
+	  Heartbeat: 31	Server: 5
+	  Heartbeat: 31	Server: 6
+	  Heartbeat: 30	Server: 7
+	  Heartbeat: 29
+Jan 14, 2022 2:44:14 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 30	Server: 1
+	  Heartbeat: 32	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 33	Server: 4
+	  Heartbeat: 31	Server: 5
+	  Heartbeat: 31	Server: 6
+	  Heartbeat: 30	Server: 7
+	  Heartbeat: 29
+Jan 14, 2022 2:44:17 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 33	Server: 1
+	  Heartbeat: 33	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 34	Server: 4
+	  Heartbeat: 33	Server: 5
+	  Heartbeat: 31	Server: 6
+	  Heartbeat: 34	Server: 7
+	  Heartbeat: 32
+Jan 14, 2022 2:44:19 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 35	Server: 1
+	  Heartbeat: 34	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 35	Server: 4
+	  Heartbeat: 34	Server: 5
+	  Heartbeat: 34	Server: 6
+	  Heartbeat: 35	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:21 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 35	Server: 1
+	  Heartbeat: 34	Server: 3
+	  Heartbeat: 36	Server: 4
+	  Heartbeat: 34	Server: 5
+	  Heartbeat: 34	Server: 6
+	  Heartbeat: 35	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:23 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 37	Server: 1
+	  Heartbeat: 37	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 37	Server: 4
+	  Heartbeat: 37	Server: 5
+	  Heartbeat: 35	Server: 6
+	  Heartbeat: 37	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:25 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 37	Server: 1
+	  Heartbeat: 37	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 38	Server: 4
+	  Heartbeat: 38	Server: 5
+	  Heartbeat: 38	Server: 6
+	  Heartbeat: 37	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:27 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 37	Server: 1
+	  Heartbeat: 37	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 39	Server: 4
+	  Heartbeat: 38	Server: 5
+	  Heartbeat: 38	Server: 6
+	  Heartbeat: 37	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:29 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 40	Server: 1
+	  Heartbeat: 37	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 40	Server: 4
+	  Heartbeat: 40	Server: 5
+	  Heartbeat: 38	Server: 6
+	  Heartbeat: 40	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:31 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 40	Server: 1
+	  Heartbeat: 40	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 41	Server: 4
+	  Heartbeat: 40	Server: 5
+	  Heartbeat: 39	Server: 6
+	  Heartbeat: 41	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:33 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 42	Server: 1
+	  Heartbeat: 42	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 42	Server: 4
+	  Heartbeat: 41	Server: 5
+	  Heartbeat: 40	Server: 6
+	  Heartbeat: 42	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:35 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 42	Server: 1
+	  Heartbeat: 42	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 43	Server: 4
+	  Heartbeat: 41	Server: 5
+	  Heartbeat: 40	Server: 6
+	  Heartbeat: 42	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:37 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 42	Server: 1
+	  Heartbeat: 42	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 44	Server: 4
+	  Heartbeat: 41	Server: 5
+	  Heartbeat: 40	Server: 6
+	  Heartbeat: 44	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 45	Server: 1
+	  Heartbeat: 45	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 45	Server: 4
+	  Heartbeat: 44	Server: 5
+	  Heartbeat: 44	Server: 6
+	  Heartbeat: 45
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 1
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 1
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 1
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 1
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 1
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 45	Server: 1
+	  Heartbeat: 45	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 46	Server: 4
+	  Heartbeat: 44	Server: 5
+	  Heartbeat: 44	Server: 6
+	  Heartbeat: 46	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:43 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 47	Server: 1
+	  Heartbeat: 47	Server: 3
+	  Heartbeat: 47	Server: 4
+	  Heartbeat: 47	Server: 5
+	  Heartbeat: 46	Server: 6
+	  Heartbeat: 47	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:45 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 47	Server: 1
+	  Heartbeat: 47	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 48	Server: 4
+	  Heartbeat: 47	Server: 5
+	  Heartbeat: 47	Server: 6
+	  Heartbeat: 47	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:48 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 49	Server: 1
+	  Heartbeat: 47	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 49	Server: 4
+	  Heartbeat: 47	Server: 5
+	  Heartbeat: 47	Server: 6
+	  Heartbeat: 47	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1000
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 50	Server: 1
+	  Heartbeat: 49	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 50	Server: 4
+	  Heartbeat: 50	Server: 5
+	  Heartbeat: 49	Server: 6
+	  Heartbeat: 50	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 51	Server: 1
+	  Heartbeat: 51	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 51	Server: 4
+	  Heartbeat: 50	Server: 5
+	  Heartbeat: 49	Server: 6
+	  Heartbeat: 50	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1030
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 51	Server: 1
+	  Heartbeat: 51	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 52	Server: 4
+	  Heartbeat: 50	Server: 5
+	  Heartbeat: 51	Server: 6
+	  Heartbeat: 50	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 51	Server: 1
+	  Heartbeat: 51	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 53	Server: 4
+	  Heartbeat: 50	Server: 5
+	  Heartbeat: 51	Server: 6
+	  Heartbeat: 50	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 52	Server: 1
+	  Heartbeat: 52	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 54	Server: 4
+	  Heartbeat: 53	Server: 5
+	  Heartbeat: 53	Server: 6
+	  Heartbeat: 52	Server: 7
+	  Heartbeat: 35
+Jan 14, 2022 2:45:00 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 990
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 52	Server: 1
+	  Heartbeat: 52	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 55	Server: 4
+	  Heartbeat: 53	Server: 5
+	  Heartbeat: 53	Server: 6
+	  Heartbeat: 52
+Jan 14, 2022 2:45:02 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Message sent:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Server: 0
+	  Heartbeat: 52	Server: 1
+	  Heartbeat: 52	Server: 2
+	  Heartbeat: 15	Server: 3
+	  Heartbeat: 56	Server: 4
+	  Heartbeat: 53	Server: 5
+	  Heartbeat: 53	Server: 6
+	  Heartbeat: 52
+Jan 14, 2022 2:45:03 PM edu.yu.cs.com3800.UDPMessageSender run
+FINE: Exiting UDPMessageSender.run()

@@ -1,0 +1,7 @@
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189484323 for server 0 
+
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.JavaRunnerFollower <init>
+FINE: initialized at 1642189484324
+Jan 14, 2022 2:45:03 PM edu.yu.cs.com3800.stage5.JavaRunnerFollower shutdown
+FINE: shutdown

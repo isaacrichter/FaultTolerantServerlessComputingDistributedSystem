@@ -1,0 +1,748 @@
+Jan 14, 2022 2:43:08 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189388974 for server 0 
+
+Jan 14, 2022 2:43:08 PM edu.yu.cs.com3800.stage5.GatewayServer <init>
+FINE: HTTP Server initilized
+Jan 14, 2022 2:43:13 PM edu.yu.cs.com3800.stage5.GatewayServer start
+INFO: http server started
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:23 EST 2022
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:23 EST 2022
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:23 EST 2022
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:24 EST 2022
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 3
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 5";
+    }
+}
+
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:23 EST 2022
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 4
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 2";
+    }
+}
+
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:24 EST 2022
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:23 EST 2022
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 6
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 1";
+    }
+}
+
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 6
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 3";
+    }
+}
+
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:24 EST 2022
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 7
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 4";
+    }
+}
+
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 2
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 0";
+    }
+}
+
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 7
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 7";
+    }
+}
+
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 7
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 6";
+    }
+}
+
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1040
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 6
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 3
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:43:33 EST 2022
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1010
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 7
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 6
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1050
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 7
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 4
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1000
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 2
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 0
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 4
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 2
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1060), sending request
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1062
+Request ID: 8
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 8";
+    }
+}
+
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1030
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 6
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 1
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1000
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 7
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 7
+Jan 14, 2022 2:43:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1010
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 3
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 5
+Jan 14, 2022 2:43:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:43:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1020
+Receiver Host: localhost
+Receiver port: 1060
+Request ID: 8
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 8
+Jan 14, 2022 2:43:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:49 EST 2022
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:49 EST 2022
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:49 EST 2022
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 10
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 11";
+    }
+}
+
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 11
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 15";
+    }
+}
+
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:49 EST 2022
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 12
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 17";
+    }
+}
+
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 12
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 13";
+    }
+}
+
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:49 EST 2022
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 13
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 9";
+    }
+}
+
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:49 EST 2022
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 14
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 10";
+    }
+}
+
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:50 EST 2022
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 15
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 12";
+    }
+}
+
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:50 EST 2022
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 16
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 16";
+    }
+}
+
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1000
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 13
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 9
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:53 EST 2022
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1030
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 11
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 15
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1050
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 16
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 16
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 17
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 14";
+    }
+}
+
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1050
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 12
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 17
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1030
+Receiver Host: localhost
+Receiver port: 1020
+Request ID: 12
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 13
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1000
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 10
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 11
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1030
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 15
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 12
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1000
+Receiver Host: localhost
+Receiver port: 1020
+Request ID: 14
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 10
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1000
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 17
+Error Occurred: false
+Message Contents: 
+Hello world! from code version 14
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: New request at: Fri Jan 14 14:44:58 EST 2022
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: connecting to leader (port 1040), sending request
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: writing message to output stream
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Message Type: WORK
+Sender Host: localhost
+Sender port: 990
+Receiver Host: localhost
+Receiver port: 1042
+Request ID: 18
+Error Occurred: false
+Message Contents: 
+package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from final code version";
+    }
+}
+
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: waiting for leader reply
+Jan 14, 2022 2:45:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Output:  Message Type: COMPLETED_WORK
+Sender Host: localhost
+Sender port: 1030
+Receiver Host: localhost
+Receiver port: 1040
+Request ID: 18
+Error Occurred: false
+Message Contents: 
+Hello world! from final code version
+Jan 14, 2022 2:45:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: Status code: 200

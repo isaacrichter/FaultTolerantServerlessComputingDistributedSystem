@@ -1,0 +1,129 @@
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189386399 for server -1 
+
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster <init>
+FINE: ServerCluster initialized.
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: Building cluster...
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createIDsAndAddresses
+INFO: InetAddresses and ids created
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating gateway zookeeper server
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: starting gateway zookeeper
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: gateway zookeeper up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating server 1
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: server 1 up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating server 2
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: server 2 up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating server 3
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: server 3 up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating server 4
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: server 4 up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating server 5
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: server 5 up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating server 6
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: server 6 up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: creating server 7
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+FINE: server 7 up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster createStartServers
+INFO: all servers up and running
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+FINE: gateway is server: 0
+Jan 14, 2022 2:43:16 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: building 9 clients and sending one request from each
+Jan 14, 2022 2:43:17 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: Client received responses:
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #0
+Response code: 200
+Response body: Hello world! from code version 0
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #1
+Response code: 200
+Response body: Hello world! from code version 1
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #2
+Response code: 200
+Response body: Hello world! from code version 2
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #3
+Response code: 200
+Response body: Hello world! from code version 3
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #4
+Response code: 200
+Response body: Hello world! from code version 4
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #5
+Response code: 200
+Response body: Hello world! from code version 5
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #6
+Response code: 200
+Response body: Hello world! from code version 6
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #7
+Response code: 200
+Response body: Hello world! from code version 7
+Jan 14, 2022 2:43:38 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #8
+Response code: 200
+Response body: Hello world! from code version 8
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: Client received responses:
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #9
+Response code: 200
+Response body: Hello world! from code version 9
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #10
+Response code: 200
+Response body: Hello world! from code version 10
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #11
+Response code: 200
+Response body: Hello world! from code version 11
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #12
+Response code: 200
+Response body: Hello world! from code version 12
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #13
+Response code: 200
+Response body: Hello world! from code version 13
+Jan 14, 2022 2:44:57 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #14
+Response code: 200
+Response body: Hello world! from code version 14
+Jan 14, 2022 2:44:57 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #15
+Response code: 200
+Response body: Hello world! from code version 15
+Jan 14, 2022 2:44:57 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #16
+Response code: 200
+Response body: Hello world! from code version 16
+Jan 14, 2022 2:44:57 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: client #17
+Response code: 200
+Response body: Hello world! from code version 17
+Jan 14, 2022 2:45:03 PM edu.yu.cs.com3800.ServerCluster buildAndRun
+INFO: final client: 
+Response code: 200
+Response body: Hello world! from final code version

@@ -1,0 +1,13 @@
+Jan 14, 2022 2:43:09 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189389157 for server 3 
+
+Jan 14, 2022 2:43:13 PM edu.yu.cs.com3800.stage5.JavaRunnerFollower <init>
+FINE: initialized at 1642189393171
+Jan 14, 2022 2:43:28 PM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINE: incoming message...
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: sending to leader completed work of request #4
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINE: incoming message...
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: sending to leader completed work of request #8

@@ -1,0 +1,21 @@
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189481903 for server 5 
+
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.ZooKeeperLeaderElection <init>
+FINE: initialized...
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+FINE: got message from server with leader
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection haveEnoughVotes
+FINE: not enough votes. Needed 2 for majority only had 1
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+FINE: got message from server with leader
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+FINE: got message from server with leader
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: 5 seems to have enough votes...
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: checking Q... 
+Jan 14, 2022 2:44:42 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+FINE: Q says: server 0 votes for 5
+Jan 14, 2022 2:44:43 PM edu.yu.cs.com3800.ZooKeeperLeaderElection processVote
+INFO: 5 accepted as leader on server 5

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9448ae8c-a41a-465a-a314-dedfc9d30752" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/LoggingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/LoggingServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com3800/stage4/ServerClusterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com3800/stage4/ServerClusterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage5/src/main/java/edu/yu/cs/com3800/stage5/RoundRobinLeaderTCPWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage5/src/main/java/edu/yu/cs/com3800/stage5/RoundRobinLeaderTCPWorker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22DDHVe0PwcGE480EnvmzHHh2dG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9448ae8c-a41a-465a-a314-dedfc9d30752" name="Default Changelist" comment="" />
+      <created>1639363176686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639363176686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="217" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1639364061025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="217" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1639364061025" />
+    <state x="413" y="60" key="FileChooserDialogImpl" timestamp="1640122893140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1640122893140" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1640897134637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1640897134637" />
+    <state x="0" y="4" key="new project wizard" timestamp="1640122949837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="4" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1640122949837" />
+  </component>
+</project>

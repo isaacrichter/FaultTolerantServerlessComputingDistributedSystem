@@ -1,0 +1,19 @@
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189386524 for server 3 
+
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+FINE: initialized at 1642189386524
+Jan 14, 2022 2:43:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: Case: Looking for leader, initializing election
+Jan 14, 2022 2:43:08 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Election ended: 7 elected
+Jan 14, 2022 2:43:08 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: Case: Is follower, initializing java runner and TCPListener
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: Case: Looking for leader, initializing election
+Jan 14, 2022 2:44:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Election ended: 3 elected
+Jan 14, 2022 2:44:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: Case: Is leader, initializing round robin
+Jan 14, 2022 2:45:03 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl shutdown
+FINE: server shutdown

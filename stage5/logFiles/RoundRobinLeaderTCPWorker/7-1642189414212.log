@@ -1,0 +1,11 @@
+Jan 14, 2022 2:43:35 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189415715 for server 7 
+
+Jan 14, 2022 2:43:35 PM edu.yu.cs.com3800.stage5.RoundRobinLeaderTCPWorker <init>
+FINE: initialized at 1642189415715
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.stage5.RoundRobinLeaderTCPWorker run
+INFO: sending work #8 to worker on port 1022
+Jan 14, 2022 2:43:36 PM edu.yu.cs.com3800.stage5.RoundRobinLeaderTCPWorker run
+INFO: getting results from worker on port 1022
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.RoundRobinLeaderTCPWorker run
+INFO: sending results of request #8 back to gateway

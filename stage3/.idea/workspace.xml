@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66e7df9f-093f-4c0b-8a60-ceb7ff0ee395" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com3800/ServerCluster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com3800/ServerCluster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com3800/stage4/ServerClusterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com3800/stage4/ServerClusterTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20pJqTwkAnfMxAQw9yXeYxub54h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stage1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.yu.cs.com3800.stage3" />
+      <recent name="edu.yu.cs.com3800" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e7df9f-093f-4c0b-8a60-ceb7ff0ee395" name="Default Changelist" comment="" />
+      <created>1636735786635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636735786635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Project_Structure" timestamp="1636737273909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1636737273909" />
+    <state x="596" y="277" width="517" height="354" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1636922286217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1636922286217" />
+    <state x="424" y="194" width="517" height="354" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1636852047057" />
+    <state x="413" y="61" key="FileChooserDialogImpl" timestamp="1638334480435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1638334480435" />
+    <state x="60" y="0" key="SettingsEditor" timestamp="1638334860264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="84" y="0" key="SettingsEditor/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1636923164192" />
+    <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1638334860264" />
+    <state x="0" y="4" key="new project wizard" timestamp="1638334487754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="4" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1638334487754" />
+  </component>
+</project>

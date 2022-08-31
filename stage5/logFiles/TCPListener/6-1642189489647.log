@@ -1,0 +1,27 @@
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189489648 for server 6 
+
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.TCPListener <init>
+FINE: Initialized
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: socket listening
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: socket connecting
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: payload read
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: sharing class
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: message shared with handling sibling class: true
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: socket listening
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: socket connecting
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: payload read
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: sharing class
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: message shared with handling sibling class: true
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.TCPListener run
+FINE: socket listening

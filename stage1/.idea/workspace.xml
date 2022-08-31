@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7df9726f-9fad-45ad-9565-5163ed31115f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com3800/LoggingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com3800/LoggingServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com3800/stage4/ServerClusterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com3800/stage4/ServerClusterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage5/src/main/java/edu/yu/cs/com3800/stage5/GossipManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage5/src/main/java/edu/yu/cs/com3800/stage5/GossipManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1yywbCpXGduoOcSPgjP4uJKSgJr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.Stage1Test.badJavaCodeTest">
+    <configuration name="Stage1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com3800.stage1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com3800.stage1" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com3800.stage1.Stage1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage1Test.badHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com3800.stage1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com3800.stage1" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com3800.stage1.Stage1Test" />
+      <option name="METHOD_NAME" value="badHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage1Test.badJavaCodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com3800.stage1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com3800.stage1" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com3800.stage1.Stage1Test" />
+      <option name="METHOD_NAME" value="badJavaCodeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage1Test.simpleTwoRequestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com3800.stage1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com3800.stage1" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com3800.stage1.Stage1Test" />
+      <option name="METHOD_NAME" value="simpleTwoRequestTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage1Test.twoClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com3800.stage1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com3800.stage1" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com3800.stage1.Stage1Test" />
+      <option name="METHOD_NAME" value="twoClientTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Stage1Test.badJavaCodeTest" />
+        <item itemvalue="JUnit.Stage1Test.twoClientTest" />
+        <item itemvalue="JUnit.Stage1Test.badHeader" />
+        <item itemvalue="JUnit.Stage1Test.simpleTwoRequestTest" />
+        <item itemvalue="JUnit.Stage1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7df9726f-9fad-45ad-9565-5163ed31115f" name="Default Changelist" comment="" />
+      <created>1633237204187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633237204187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Project_Structure" timestamp="1636852356197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1636852356197" />
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1633237235058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="217" key="FileChooserDialogImpl/-1366.311.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1633237235058" />
+    <state width="1311" height="158" key="GridCell.Tab.0.bottom" timestamp="1638406668775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638406668775" />
+    <state width="1311" height="158" key="GridCell.Tab.0.center" timestamp="1638406668775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1638406668775" />
+    <state width="1311" height="158" key="GridCell.Tab.0.left" timestamp="1638406668775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1638406668775" />
+    <state width="1311" height="158" key="GridCell.Tab.0.right" timestamp="1638406668775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1638406668775" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1638333775774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1638333775774" />
+  </component>
+</project>

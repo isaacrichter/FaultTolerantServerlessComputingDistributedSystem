@@ -1,0 +1,521 @@
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189386558 for server 4 
+
+Jan 14, 2022 2:43:06 PM edu.yu.cs.com3800.stage5.GossipManager <init>
+FINE: initialized...
+Jan 14, 2022 2:43:08 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:43:10 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:43:12 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 4 based on message from server 1 at time 1642189394799 (added)
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 1 based on message from server 1 at time 1642189394799 (added)
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 2 based on message from server 1 at time 1642189394799 (added)
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 3 based on message from server 1 at time 1642189394799 (added)
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 0
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 4 based on message from server 0 at time 1642189394924 (added)
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 3 based on message from server 0 at time 1642189394925 (updated)
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 2 based on message from server 0 at time 1642189394925 (added)
+Jan 14, 2022 2:43:14 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 2 based on message from server 0 at time 1642189394925 (added)
+Jan 14, 2022 2:43:16 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:43:17 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:43:17 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 5 based on message from server 1 at time 1642189397098 (updated)
+Jan 14, 2022 2:43:17 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 4 based on message from server 1 at time 1642189397098 (updated)
+Jan 14, 2022 2:43:19 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:43:21 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 0
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 7
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 7 based on message from server 7 at time 1642189403467 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 7 based on message from server 7 at time 1642189403467 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 8 based on message from server 7 at time 1642189403467 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 7 based on message from server 7 at time 1642189403467 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 6 based on message from server 7 at time 1642189403467 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 7 based on message from server 7 at time 1642189403467 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 8 based on message from server 7 at time 1642189403467 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 8 based on message from server 1 at time 1642189403484 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 8 based on message from server 1 at time 1642189403484 (updated)
+Jan 14, 2022 2:43:23 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 7 based on message from server 1 at time 1642189403484 (updated)
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 9 based on message from server 3 at time 1642189405017 (updated)
+Jan 14, 2022 2:43:25 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:43:27 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:43:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 2
+Jan 14, 2022 2:43:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 11 based on message from server 2 at time 1642189409568 (updated)
+Jan 14, 2022 2:43:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 8 based on message from server 2 at time 1642189409568 (updated)
+Jan 14, 2022 2:43:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 8 based on message from server 2 at time 1642189409568 (updated)
+Jan 14, 2022 2:43:29 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 7
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 7
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 12 based on message from server 7 at time 1642189411465 (updated)
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 10 based on message from server 7 at time 1642189411465 (updated)
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 9 based on message from server 7 at time 1642189411465 (updated)
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 12 based on message from server 7 at time 1642189411465 (updated)
+Jan 14, 2022 2:43:31 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:43:33 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 7
+Jan 14, 2022 2:43:35 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 2
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 11 based on message from server 6 at time 1642189417264 (updated)
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 12 based on message from server 6 at time 1642189417264 (updated)
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 13 based on message from server 6 at time 1642189417264 (updated)
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 15 based on message from server 6 at time 1642189417265 (updated)
+Jan 14, 2022 2:43:37 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:43:39 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:43:39 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 15 based on message from server 3 at time 1642189419710 (updated)
+Jan 14, 2022 2:43:39 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 13 based on message from server 3 at time 1642189419710 (updated)
+Jan 14, 2022 2:43:39 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 13 based on message from server 3 at time 1642189419710 (updated)
+Jan 14, 2022 2:43:39 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 16 based on message from server 3 at time 1642189419710 (updated)
+Jan 14, 2022 2:43:39 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 13 based on message from server 3 at time 1642189419710 (updated)
+Jan 14, 2022 2:43:40 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 16 based on message from server 3 at time 1642189421730 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 15 based on message from server 3 at time 1642189421730 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 17 based on message from server 3 at time 1642189421730 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 14 based on message from server 3 at time 1642189421730 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 16 based on message from server 3 at time 1642189421730 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 16 based on message from server 3 at time 1642189421730 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 7
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 17 based on message from server 7 at time 1642189421840 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 16 based on message from server 1 at time 1642189421966 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 17 based on message from server 1 at time 1642189421966 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 16 based on message from server 1 at time 1642189421966 (updated)
+Jan 14, 2022 2:43:41 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 17 based on message from server 1 at time 1642189421966 (updated)
+Jan 14, 2022 2:43:42 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 0
+Jan 14, 2022 2:43:42 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 17 based on message from server 0 at time 1642189422123 (updated)
+Jan 14, 2022 2:43:42 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 0
+Jan 14, 2022 2:43:44 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 7
+Jan 14, 2022 2:43:46 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 7
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 19 based on message from server 7 at time 1642189427846 (updated)
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 19 based on message from server 7 at time 1642189427846 (updated)
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 19 based on message from server 7 at time 1642189427846 (updated)
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 19 based on message from server 7 at time 1642189427846 (updated)
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 19 based on message from server 7 at time 1642189427846 (updated)
+Jan 14, 2022 2:43:47 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 20 based on message from server 7 at time 1642189427846 (updated)
+Jan 14, 2022 2:43:48 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 3
+Jan 14, 2022 2:43:50 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 0
+Jan 14, 2022 2:43:52 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 22 based on message from server 1 at time 1642189434125 (updated)
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 23 based on message from server 1 at time 1642189434125 (updated)
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 22 based on message from server 1 at time 1642189434125 (updated)
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 22 based on message from server 1 at time 1642189434125 (updated)
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 21 based on message from server 1 at time 1642189434125 (updated)
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 23 based on message from server 1 at time 1642189434125 (updated)
+Jan 14, 2022 2:43:54 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 7
+Jan 14, 2022 2:43:56 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:43:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:43:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 23 based on message from server 3 at time 1642189438294 (updated)
+Jan 14, 2022 2:43:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 25 based on message from server 3 at time 1642189438294 (updated)
+Jan 14, 2022 2:43:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 23 based on message from server 3 at time 1642189438294 (updated)
+Jan 14, 2022 2:43:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 23 based on message from server 3 at time 1642189438294 (updated)
+Jan 14, 2022 2:43:58 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 2
+Jan 14, 2022 2:43:59 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:43:59 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 24 based on message from server 6 at time 1642189439614 (updated)
+Jan 14, 2022 2:43:59 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 24 based on message from server 6 at time 1642189439614 (updated)
+Jan 14, 2022 2:43:59 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 24 based on message from server 6 at time 1642189439614 (updated)
+Jan 14, 2022 2:43:59 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 26 based on message from server 6 at time 1642189439614 (updated)
+Jan 14, 2022 2:43:59 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 25 based on message from server 6 at time 1642189439614 (updated)
+Jan 14, 2022 2:44:00 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 3
+Jan 14, 2022 2:44:02 PM edu.yu.cs.com3800.stage5.GossipManager checkForFailedAndCleanups
+INFO: 4: no heartbeat from server 2 - server failed
+Jan 14, 2022 2:44:02 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:44:02 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 5
+Jan 14, 2022 2:44:02 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 15 based on message from server 5 at time 1642189442613 (added)
+Jan 14, 2022 2:44:02 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 26 based on message from server 5 at time 1642189442613 (updated)
+Jan 14, 2022 2:44:02 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 27 based on message from server 5 at time 1642189442613 (updated)
+Jan 14, 2022 2:44:04 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:44:04 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 28 based on message from server 1 at time 1642189444341 (updated)
+Jan 14, 2022 2:44:04 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:44:06 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:08 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 7
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 28 based on message from server 3 at time 1642189450869 (updated)
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 30 based on message from server 3 at time 1642189450869 (updated)
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 31 based on message from server 3 at time 1642189450869 (updated)
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 29 based on message from server 3 at time 1642189450869 (updated)
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 30 based on message from server 3 at time 1642189450869 (updated)
+Jan 14, 2022 2:44:10 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 29 based on message from server 3 at time 1642189450869 (updated)
+Jan 14, 2022 2:44:11 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:11 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 31 based on message from server 6 at time 1642189451874 (updated)
+Jan 14, 2022 2:44:11 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 30 based on message from server 6 at time 1642189451874 (updated)
+Jan 14, 2022 2:44:11 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 32 based on message from server 6 at time 1642189451874 (updated)
+Jan 14, 2022 2:44:11 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 31 based on message from server 6 at time 1642189451874 (updated)
+Jan 14, 2022 2:44:12 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 7
+Jan 14, 2022 2:44:12 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 32 based on message from server 7 at time 1642189452234 (updated)
+Jan 14, 2022 2:44:12 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:13 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:13 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 32 based on message from server 6 at time 1642189453977 (updated)
+Jan 14, 2022 2:44:13 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 32 based on message from server 6 at time 1642189453977 (updated)
+Jan 14, 2022 2:44:13 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 31 based on message from server 6 at time 1642189453977 (updated)
+Jan 14, 2022 2:44:13 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 33 based on message from server 6 at time 1642189453977 (updated)
+Jan 14, 2022 2:44:14 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:44:15 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 5
+Jan 14, 2022 2:44:15 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 32 based on message from server 5 at time 1642189455109 (updated)
+Jan 14, 2022 2:44:15 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 33 based on message from server 5 at time 1642189455109 (updated)
+Jan 14, 2022 2:44:15 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 33 based on message from server 5 at time 1642189455109 (updated)
+Jan 14, 2022 2:44:16 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 0
+Jan 14, 2022 2:44:18 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 7
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 34 based on message from server 6 at time 1642189460058 (updated)
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 35 based on message from server 6 at time 1642189460058 (updated)
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 34 based on message from server 6 at time 1642189460058 (updated)
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 35 based on message from server 6 at time 1642189460058 (updated)
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 36 based on message from server 6 at time 1642189460058 (updated)
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 34 based on message from server 6 at time 1642189460058 (updated)
+Jan 14, 2022 2:44:20 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 7
+Jan 14, 2022 2:44:21 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:44:21 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 35 based on message from server 3 at time 1642189461242 (updated)
+Jan 14, 2022 2:44:21 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 36 based on message from server 3 at time 1642189461242 (updated)
+Jan 14, 2022 2:44:21 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 35 based on message from server 3 at time 1642189461242 (updated)
+Jan 14, 2022 2:44:22 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:44:22 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 37 based on message from server 1 at time 1642189462657 (updated)
+Jan 14, 2022 2:44:22 PM edu.yu.cs.com3800.stage5.GossipManager checkForFailedAndCleanups
+INFO: 4: no heartbeat from server 2 - server failed
+Jan 14, 2022 2:44:22 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 3
+Jan 14, 2022 2:44:24 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 3
+Jan 14, 2022 2:44:26 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:26 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 15 based on message from server 6 at time 1642189466113 (added)
+Jan 14, 2022 2:44:26 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 39 based on message from server 6 at time 1642189466113 (updated)
+Jan 14, 2022 2:44:26 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:28 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 3
+Jan 14, 2022 2:44:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 5
+Jan 14, 2022 2:44:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 37 based on message from server 5 at time 1642189469344 (updated)
+Jan 14, 2022 2:44:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 38 based on message from server 5 at time 1642189469344 (updated)
+Jan 14, 2022 2:44:29 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 40 based on message from server 5 at time 1642189469344 (updated)
+Jan 14, 2022 2:44:30 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:44:32 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:33 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 5
+Jan 14, 2022 2:44:33 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 40 based on message from server 5 at time 1642189473541 (updated)
+Jan 14, 2022 2:44:33 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 40 based on message from server 5 at time 1642189473541 (updated)
+Jan 14, 2022 2:44:33 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 41 based on message from server 5 at time 1642189473541 (updated)
+Jan 14, 2022 2:44:33 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 42 based on message from server 5 at time 1642189473541 (updated)
+Jan 14, 2022 2:44:33 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 41 based on message from server 5 at time 1642189473541 (updated)
+Jan 14, 2022 2:44:34 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:44:37 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:44:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 1
+Jan 14, 2022 2:44:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 43 based on message from server 1 at time 1642189477039 (updated)
+Jan 14, 2022 2:44:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 44 based on message from server 1 at time 1642189477039 (updated)
+Jan 14, 2022 2:44:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 43 based on message from server 1 at time 1642189477039 (updated)
+Jan 14, 2022 2:44:37 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 43 based on message from server 1 at time 1642189477039 (updated)
+Jan 14, 2022 2:44:39 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:44:43 PM edu.yu.cs.com3800.stage5.GossipManager checkForFailedAndCleanups
+INFO: 4: no heartbeat from server 7 - server failed
+Jan 14, 2022 2:44:43 PM edu.yu.cs.com3800.stage5.GossipManager checkForFailedAndCleanups
+INFO: Leader died. Entering new election...
+Jan 14, 2022 2:44:43 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 3
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 46 based on message from server 6 at time 1642189484552 (updated)
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 46 based on message from server 6 at time 1642189484552 (updated)
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 46 based on message from server 6 at time 1642189484552 (updated)
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 45 based on message from server 6 at time 1642189484552 (updated)
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 48 based on message from server 6 at time 1642189484552 (updated)
+Jan 14, 2022 2:44:44 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 7's heartbeat sequence to 35 based on message from server 6 at time 1642189484552 (added)
+Jan 14, 2022 2:44:45 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:44:45 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 0
+Jan 14, 2022 2:44:45 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 48 based on message from server 0 at time 1642189485580 (updated)
+Jan 14, 2022 2:44:45 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 47 based on message from server 0 at time 1642189485580 (updated)
+Jan 14, 2022 2:44:45 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 46 based on message from server 0 at time 1642189485580 (updated)
+Jan 14, 2022 2:44:47 PM edu.yu.cs.com3800.stage5.GossipManager checkForFailedAndCleanups
+INFO: 4: no heartbeat from server 2 - server failed
+Jan 14, 2022 2:44:47 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:48 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:48 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 49 based on message from server 6 at time 1642189488640 (updated)
+Jan 14, 2022 2:44:48 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 2's heartbeat sequence to 15 based on message from server 6 at time 1642189488640 (added)
+Jan 14, 2022 2:44:48 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 48 based on message from server 6 at time 1642189488640 (updated)
+Jan 14, 2022 2:44:48 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 48 based on message from server 6 at time 1642189488640 (updated)
+Jan 14, 2022 2:44:48 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 50 based on message from server 6 at time 1642189488640 (updated)
+Jan 14, 2022 2:44:49 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 3
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 50 based on message from server 6 at time 1642189490836 (updated)
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 50 based on message from server 6 at time 1642189490836 (updated)
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 51 based on message from server 6 at time 1642189490836 (updated)
+Jan 14, 2022 2:44:51 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 1
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 51 based on message from server 3 at time 1642189492189 (updated)
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 51 based on message from server 3 at time 1642189492189 (updated)
+Jan 14, 2022 2:44:52 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 51 based on message from server 3 at time 1642189492189 (updated)
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 0
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 52 based on message from server 0 at time 1642189493695 (updated)
+Jan 14, 2022 2:44:53 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 52 based on message from server 0 at time 1642189493695 (updated)
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 3
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 52 based on message from server 3 at time 1642189494194 (updated)
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 51 based on message from server 3 at time 1642189494194 (updated)
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 5
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 52 based on message from server 5 at time 1642189494389 (updated)
+Jan 14, 2022 2:44:54 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 52 based on message from server 5 at time 1642189494389 (updated)
+Jan 14, 2022 2:44:55 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 6
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 53 based on message from server 6 at time 1642189496872 (updated)
+Jan 14, 2022 2:44:56 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 54 based on message from server 6 at time 1642189496872 (updated)
+Jan 14, 2022 2:44:57 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 5
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 53 based on message from server 5 at time 1642189498604 (updated)
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 54 based on message from server 5 at time 1642189498604 (updated)
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 53 based on message from server 5 at time 1642189498604 (updated)
+Jan 14, 2022 2:44:58 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 54 based on message from server 5 at time 1642189498604 (updated)
+Jan 14, 2022 2:44:59 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 6
+Jan 14, 2022 2:45:00 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: Incoming message from server 5
+Jan 14, 2022 2:45:00 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 0's heartbeat sequence to 55 based on message from server 5 at time 1642189500643 (updated)
+Jan 14, 2022 2:45:00 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 1's heartbeat sequence to 55 based on message from server 5 at time 1642189500643 (updated)
+Jan 14, 2022 2:45:00 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 3's heartbeat sequence to 54 based on message from server 5 at time 1642189500643 (updated)
+Jan 14, 2022 2:45:00 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 5's heartbeat sequence to 55 based on message from server 5 at time 1642189500643 (updated)
+Jan 14, 2022 2:45:00 PM edu.yu.cs.com3800.stage5.GossipManager processIncomingMessages
+FINE: 4: updated 6's heartbeat sequence to 55 based on message from server 5 at time 1642189500643 (updated)
+Jan 14, 2022 2:45:01 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5
+Jan 14, 2022 2:45:03 PM edu.yu.cs.com3800.stage5.GossipManager sendGossip
+FINE: Sending gossip to server 5

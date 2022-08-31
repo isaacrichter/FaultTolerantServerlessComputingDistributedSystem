@@ -1,0 +1,25 @@
+Jan 14, 2022 2:44:40 PM edu.yu.cs.com3800.LoggingServer initializeLogging
+FINE: Initialized at: 1642189480886 for server 3 
+
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: running...
+Jan 14, 2022 2:44:41 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: is leader
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: message incoming...
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Leader serving Request #14 to server #1
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: is leader
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: message incoming...
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Leader serving Request #12 to server #4
+Jan 14, 2022 2:44:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: is leader
+Jan 14, 2022 2:44:59 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: message incoming...
+Jan 14, 2022 2:44:59 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Leader serving Request #18 to server #5
+Jan 14, 2022 2:44:59 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINE: is leader
